@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-09T18:36:16 IST" name="Default suite" finished-at="2023-01-09T18:37:12 IST" duration-ms="55667">
+    <groups>
+    </groups>
+    <test started-at="2023-01-09T18:36:16 IST" name="Default test" finished-at="2023-01-09T18:37:12 IST" duration-ms="55667">
+      <class name="com.assesment.TestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.assesment.TestCase@52af26ee]" started-at="2023-01-09T18:36:16 IST" name="setup" finished-at="2023-01-09T18:36:24 IST" duration-ms="7876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkBag()[pri:0, instance:com.assesment.TestCase@52af26ee]" started-at="2023-01-09T18:36:24 IST" name="checkBag" finished-at="2023-01-09T18:37:11 IST" duration-ms="47230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBag -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.assesment.TestCase@52af26ee]" started-at="2023-01-09T18:37:11 IST" name="exit" finished-at="2023-01-09T18:37:12 IST" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.assesment.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
